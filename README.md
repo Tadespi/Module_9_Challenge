@@ -4,12 +4,12 @@
 As a new data engineer at Pewlett Hackard, your first major task is to conduct a research project on employees hired during the 1980s and 1990s. This project involves designing tables to hold data from six CSV files, importing the files into a SQL database, and then performing data analysis on the dataset.
 
 # Instructions:
-This challenge is divided into three parts: data modeling, data engineering, and data analysis.
+This is divided into three parts: data modeling, data engineering, and data analysis.
 
-Data Modeling:
+# Data Modeling:
 Inspect the CSV files and sketch an Entity Relationship Diagram (ERD) to visualize the tables' relationships. Use tools like QuickDBD for creating the sketch.
 
-Data Engineering:
+# Data Engineering:
 Create a table schema for each of the six CSV files, specifying data types, primary keys, foreign keys, and other constraints.
 Ensure primary keys are unique or create composite keys if necessary.
 Create tables in the correct order to handle foreign keys and import each CSV file into its corresponding SQL table.
